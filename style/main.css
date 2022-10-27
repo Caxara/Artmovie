@@ -91,11 +91,11 @@ header nav a{
 .botao i{
     margin-right: 8px;
 }
-/*
+
 .botao:hover {
     background-color: white;
     color: #141414;
-}*/
+}
 
 .botoes a:hover{
     text-decoration:none;
